@@ -1,0 +1,15 @@
+{
+  "name": "mmkml2gpx",
+  "version": "2.0.0",
+  "description": "Converter from KML to GPX",
+  "repository": "https://github.com/enotramone/mmkml2gpx",
+  "author": "Andrey Yenin <enotramone@gmail.com>",
+  "license": "Unlicense",
+  "main": "converter.js",
+  "scripts": {
+    "convert": "node converter.js"
+  },
+  "dependencies": {
+    "xml2js": "0.4.23"
+  }
+}
