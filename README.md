@@ -8,7 +8,7 @@ This converter transfer color of maps.me styles to similar representations in [G
 
 ### How it works
 
-1. If you have KMZ files (default maps.me export filetype) you need to convert it to KML:
+1. If you have KMZ files (default maps.me export filetype) you need to convert them into KML:
     - Change filetype from .KMZ to .ZIP
     - Unzip file and you will get .KML
 2. Put .KML files into /KML folder in the current repository

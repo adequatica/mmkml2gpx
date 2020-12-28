@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="mmkml2gpx 2.0.0" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+  <name>Sample</name>
+</metadata>
+<wpt lat="55.722535" lon="37.668269">
+  <name>Dominion Tower</name>
+  <time>2020-12-28T06:57:31Z</time>
+  <extensions>
+    <color>#ffb300</color>
+  </extensions>
+  <type>0</type>
+  <desc>The only building in Moscow built by the project of Zaha Hadid Architects; opened in 2015.</desc>
+</wpt>
+</gpx>
