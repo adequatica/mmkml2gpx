@@ -4,7 +4,7 @@
   "description": "Converter from KML to GPX",
   "repository": "https://github.com/enotramone/mmkml2gpx",
   "author": "Andrey Yenin <enotramone@gmail.com>",
-  "license": "Unlicense",
+  "license": "MIT",
   "main": "converter.js",
   "scripts": {
     "convert": "node converter.js"
