@@ -2,8 +2,11 @@
   "name": "mmkml2gpx",
   "version": "2.0.0",
   "description": "Converter from KML to GPX",
-  "repository": "https://github.com/enotramone/mmkml2gpx",
-  "author": "Andrey Enin <enotramone@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adequatica/mmkml2gpx"
+  },
+  "author": "Andrey Enin",
   "license": "MIT",
   "main": "converter.js",
   "scripts": {
