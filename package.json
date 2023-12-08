@@ -9,10 +9,13 @@
   "author": "Andrey Enin",
   "license": "MIT",
   "main": "converter.js",
-  "scripts": {
-    "convert": "node converter.js"
+  "engines": {
+    "node": ">=12"
   },
   "dependencies": {
-    "xml2js": "0.4.23"
+    "xml2js": "^0.4.23"
+  },
+  "scripts": {
+    "convert": "node converter.js"
   }
 }
